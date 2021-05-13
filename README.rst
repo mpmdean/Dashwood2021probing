@@ -1,7 +1,12 @@
 ==========================================================
 Data Repository
 ==========================================================
-Source code and data files for the manuscript Probing electron-phonon coupling away from the Fermi level with resonant inelastic x-ray scattering. Execute fig*.m to view the data.
+Source code and data files for the manuscript Probing electron-phonon coupling away from the Fermi level with resonant inelastic x-ray scattering. Generate the figures by opening a terminal and running
+
+.. code-block:: bash
+
+       octave fig1.m
+
 
 How to cite
 -----------
@@ -41,4 +46,5 @@ Change `tree` to `lab` in the URL for JupyterLab.
 Run remotely
 ------------
 
-Launch binder button
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/mpmdean/Dashwood2021probing/HEAD?filepath=index.ipynb
