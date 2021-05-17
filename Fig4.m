@@ -83,3 +83,5 @@ xlabel('Energy loss (eV)')
 ylabel('Normalized intensity', 'Position', [1 3.3], 'Rotation', 270)
 yticks([])
 box on
+
+saveas(gcf, 'Fig4.pdf')

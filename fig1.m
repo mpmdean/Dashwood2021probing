@@ -65,3 +65,5 @@ ylim([-0.1 1.5])
 caxis([0 5000])
 yticks([])
 box on
+
+saveas(gcf, 'Fig1.pdf')
