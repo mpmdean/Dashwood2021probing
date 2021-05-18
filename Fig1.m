@@ -1,3 +1,6 @@
+set (0, "defaultaxesfontsize", 12, "defaulttextfontsize", 12)
+figure('Position', [0 0 1280 720])
+
 % Import pi* XAS
 data_tmp = importdata('pi*/XAS.txt', ' ');
 E_XAS_pi = data_tmp(:, 1);
@@ -66,4 +69,4 @@ caxis([0 5000])
 yticks([])
 box on
 
-saveas(gcf, 'Fig1.pdf')
+print('Fig1.pdf', '-dpdf', '-S1280,720')
