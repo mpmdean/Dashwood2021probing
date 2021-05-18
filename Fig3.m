@@ -1,4 +1,6 @@
+set (0, "defaultaxesfontsize", 12, "defaulttextfontsize", 12)
 colours_pi = autumn(6);
+figure('Position', [0 0 1280 720])
 
 % Plot EPC dispersion
 
@@ -75,4 +77,4 @@ ylabel('Normalized intensity', 'Position', [0.9 3.3], 'Rotation', 270)
 yticks([])
 box on
 
-saveas(gcf, 'Fig3.pdf')
+print('Fig3.pdf', '-dpdf', '-S1280,720')
