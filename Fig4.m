@@ -1,6 +1,4 @@
-set (0, "defaultaxesfontsize", 12, "defaulttextfontsize", 12)
 colours_sig = viridis(7);
-figure('Position', [0 0 1280 720])
 
 % Plot EPC dispersion
 
@@ -86,4 +84,4 @@ ylabel('Normalized intensity', 'Position', [1 3.3], 'Rotation', 270)
 yticks([])
 box on
 
-print('Fig4.pdf', '-dpdf', '-S1280,720')
+print('Fig4.png', '-dpng', '-S1280,720')
