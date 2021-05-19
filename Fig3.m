@@ -1,4 +1,4 @@
-set(0, 'defaultaxesfontsize', 4, 'defaulttextfontsize', 4)
+set(0, 'defaultaxesfontsize', 6, 'defaulttextfontsize', 6)
 figure(3, 'position', [0 0 1000 400])
 colours_pi = autumn(6);
 
