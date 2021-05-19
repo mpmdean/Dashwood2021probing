@@ -1,4 +1,4 @@
-set(0, 'defaultaxesfontsize', 4, 'defaulttextfontsize', 4)
+set(0, 'defaultaxesfontsize', 6, 'defaulttextfontsize', 6)
 figure(4, 'position', [0 0 1000 400])
 colours_sig = viridis(7);
 
