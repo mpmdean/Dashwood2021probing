@@ -1,4 +1,4 @@
-set(0, 'defaultaxesfontsize', 4, 'defaulttextfontsize', 4)
+set(0, 'defaultaxesfontsize', 6, 'defaulttextfontsize', 6)
 figure(1, 'position', [0 0 600 400])
 
 % Import pi* XAS
