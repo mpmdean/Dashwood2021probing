@@ -11,7 +11,7 @@ Source code and data files for the manuscript Probing electron-phonon coupling a
 How to cite
 -----------
 If this data is used, please cite Probing electron-phonon coupling away from the Fermi level with resonant inelastic x-ray scattering
-C. D. Dashwood, A. Geondzhian, J. G. Vale, A. C. Pakpour-Tabrizi, C. A. Howard, Q. Faure, L. S. I. Veiga, D. Meyers, S. G. Chiuzbaian, A. Nicolaou, N. Jaouen, R. B. Jackman, A. Nag, M. Garc´ıa-Fern´andez, Ke-Jin Zhou, A. C. Walters, K. Gilmore, D. F. McMorrow, and M. P. M. Dean, arXiv:2110.09572 (2021)
+C. D. Dashwood, A. Geondzhian, J. G. Vale, A. C. Pakpour-Tabrizi, C. A. Howard, Q. Faure, L. S. I. Veiga, D. Meyers, S. G. Chiuzbaian, A. Nicolaou, N. Jaouen, R. B. Jackman, A. Nag, M. Garc´ıa-Fern´andez, Ke-Jin Zhou, A. C. Walters, K. Gilmore, D. F. McMorrow, and M. P. M. Dean, Phys. Rev. X 11, 041052 (2021)
 
 Interactions between electrons and lattice vibrations are responsible for a wide range of material
 properties and applications. While there are a number of well-established experimental probes of
