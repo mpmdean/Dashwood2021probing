@@ -7,6 +7,9 @@ Source code and data files for the manuscript Probing electron-phonon coupling a
 
        octave fig1.m
 
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5825798.svg
+   :target: https://doi.org/10.5281/zenodo.5825798
+
 
 How to cite
 -----------
